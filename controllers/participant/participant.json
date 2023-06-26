@@ -3,6 +3,6 @@
   "description": "Description of my robot controller program.",
   "team": ["Yanan Liu", "Name of Team Member 2", "etc."],
   "organization": "University of Sheffield",
-  "country": "ISO 3166-1 alpha-2 country code",
+  "country": "GB",
   "programming": "Python"
 }
