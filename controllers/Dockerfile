@@ -1,5 +1,5 @@
 # FROM cyberbotics/webots.cloud:R2023a-ubuntu20.04-numpy
-FROM benjamindeleze/webots-test:R2023b-cloud
+FROM benjamindeleze/webots-test:R2023b
 
 # Additional dependencies for the utils folder
 RUN apt-get update && apt-get install -y \
